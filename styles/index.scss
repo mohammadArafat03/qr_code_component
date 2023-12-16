@@ -1,0 +1,66 @@
+$white: hsl(0, 0%, 100%);
+$light_gray: hsl(212, 45%, 89%);
+$grayish_blue: hsl(220, 15%, 55%);
+$dark_blue: hsl(218, 44%, 22%);
+$paraFont: 0.9375rem;
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    height: 100vh;
+    background-color: $light_gray;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    .card {
+        width: 327px;
+        height: 498px;
+        // padding-bottom: 12px;
+        background-color: $white;
+        border-radius: 16px;
+        box-shadow: -4px 15px 23px -15px rgba(0,0,0,0.75);
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: center;
+        .imgContainer {
+            width: 90%;
+            // height: 80%;
+            margin-top: 16px;
+            // background-color: aquamarine;
+            img {
+                width: 100%;
+                border-radius: 10px;
+            }
+        }
+        .headerContainer {
+            width: 90%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            h2 {
+                text-align: center;
+                margin-top: 8px;
+                font-family: "Outfit", sans-serif;
+            }
+        }
+        .paraContainer {
+            width: 90%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            // padding-bottom: 12px;
+            p {
+                text-align: center;
+                font-family: "Outfit", sans-serif;
+                font-size: $paraFont;
+                margin-top: 8px;
+                color: $grayish_blue;
+            }
+        }
+    }
+}
