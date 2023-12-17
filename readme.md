@@ -19,11 +19,10 @@ The following files and folders in this repo is my solution to the QR Code Compo
 
 ### Screenshots
 
-![Desktop Preview](./screenshots/QR_Code_Component_Desktop.png)
+![Desktop Preview](./screenshots/Desktop_Preview.png)
 Desktop Preview
 
-![Mobile Preview](./screenshots/QR_Code_Component_Mobile.png)
-
+![Mobile Preview](./screenshots/Mobile_Preview.png)
 Mobile Preview
 
 ### Links

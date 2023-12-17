@@ -12,11 +12,11 @@
   justify-content: center;
 }
 .container .card {
-  width: 327px;
+  width: 320px;
   height: 498px;
   background-color: hsl(0, 0%, 100%);
   border-radius: 16px;
-  box-shadow: -4px 15px 23px -15px rgba(0, 0, 0, 0.75);
+  box-shadow: 2px 7px 24px -13px rgba(0, 0, 0, 0.75);
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
@@ -38,7 +38,7 @@
 }
 .container .card .headerContainer h2 {
   text-align: center;
-  margin-top: 8px;
+  margin-top: 16px;
   font-family: "Outfit", sans-serif;
 }
 .container .card .paraContainer {
@@ -51,6 +51,6 @@
   text-align: center;
   font-family: "Outfit", sans-serif;
   font-size: 0.9375rem;
-  margin-top: 8px;
+  margin-top: 10px;
   color: hsl(220, 15%, 55%);
 }/*# sourceMappingURL=index.css.map */

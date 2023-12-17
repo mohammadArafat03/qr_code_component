@@ -17,12 +17,12 @@ $paraFont: 0.9375rem;
     align-items: center;
     justify-content: center;
     .card {
-        width: 327px;
+        width: 320px;
         height: 498px;
         // padding-bottom: 12px;
         background-color: $white;
         border-radius: 16px;
-        box-shadow: -4px 15px 23px -15px rgba(0,0,0,0.75);
+        box-shadow: 2px 7px 24px -13px rgba(0,0,0,0.75);
         display: flex;
         flex-direction: column;
         justify-content: flex-start;
@@ -44,7 +44,7 @@ $paraFont: 0.9375rem;
             justify-content: center;
             h2 {
                 text-align: center;
-                margin-top: 8px;
+                margin-top: 16px;
                 font-family: "Outfit", sans-serif;
             }
         }
@@ -58,7 +58,7 @@ $paraFont: 0.9375rem;
                 text-align: center;
                 font-family: "Outfit", sans-serif;
                 font-size: $paraFont;
-                margin-top: 8px;
+                margin-top: 10px;
                 color: $grayish_blue;
             }
         }
