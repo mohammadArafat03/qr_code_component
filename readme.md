@@ -23,6 +23,7 @@ The following files and folders in this repo is my solution to the QR Code Compo
 Desktop Preview
 
 ![Mobile Preview](./screenshots/QR_Code_Component_Mobile.png)
+
 Mobile Preview
 
 ### Links
