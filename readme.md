@@ -28,7 +28,7 @@ Mobile Preview
 
 ### Links
 
-- Solution URL: 
+- Solution URL: [https://github.com/mohammadArafat03/qr_code_component/tree/main](https://github.com/mohammadArafat03/qr_code_component/tree/main
 - Live Site URL: [https://mohammadarafat03.github.io/qr_code_component/](https://mohammadarafat03.github.io/qr_code_component/)
 
 ## My Processes
